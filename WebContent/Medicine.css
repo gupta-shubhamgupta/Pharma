@@ -1,0 +1,124 @@
+@CHARSET "ISO-8859-1";
+
+#logreg
+{
+	color:white;
+	font-family: monospace;
+	font-size: medium;
+}
+a
+{
+	font-style:oblique;s
+	font-family: monospace;
+	color:blue;
+}
+a:hover{
+	padding-bottom: 100px;
+	font-family: monospace;
+	color:yellow;
+}
+#loguname
+{
+	color:white;
+	font-family: monospace;
+	font-size: medium;
+}
+#p1
+{
+	color:white;
+	font-family: monospace;
+	font-size: medium;
+}
+body
+{
+	background-image: url("login_bg_image.jpg");
+}
+#addbatchbody
+{
+	background-image: url("C2.jpg");
+}
+#logbutin
+{
+	color:black;
+	 background-color:yellow;
+	 font-family: monospace;
+}
+#logresin
+{
+	 color:black;
+	 background-color:yellow;
+	 font-family: monospace;
+}
+
+#logbutin:hover
+{
+	color:yellow;
+	 background-color:black;
+	 font-family: monospace;
+}
+#logresin:hover
+{
+	color:yellow;
+	 background-color:black;
+	 font-family: monospace;
+}
+#addbatchbody
+{
+	background-image: url("C2.jpg");
+	background-size: cover; 
+	background-repeat:no-repeat; 
+}
+#home
+{
+	background-image: url("home.gif");
+	background-size: cover; 
+	background-repeat:no-repeat;
+}
+#about
+{
+	background-image: url("about.gif");
+	background-size: cover; 
+	background-repeat:no-repeat;
+}
+#menu
+{
+	background-image: url("menu.gif");
+	background-size: cover; 
+	background-repeat:no-repeat;
+}
+#admin
+{
+	background-image: url("adminlog.gif");
+	background-size: cover; 
+	background-repeat:no-repeat;
+}
+#uer
+{
+	background-image: url("userpage.jpg");
+	background-size: cover; 
+	background-repeat:no-repeat;
+}
+#register
+{
+	background-image: url("register.gif");
+	background-size: cover; 
+	background-repeat:no-repeat;
+}
+#apas
+{
+	background-image: url("apass.gif");
+	background-size: cover; 
+	background-repeat:no-repeat;
+}
+#ureg
+{
+	background-image: url("ureg.gif");
+	background-size: cover; 
+	background-repeat:no-repeat;
+}
+#ufog
+{
+	background-image: url("ufo.gif");
+	background-size: cover; 
+	background-repeat:no-repeat;
+}
